@@ -1,0 +1,3 @@
+GloVe Embeddings File Used: "glove.twitter.27B.200d.txt"
+Original Download Link: https://nlp.stanford.edu/data/glove.twitter.27B.zip
+Google Drive Download Link: https://drive.google.com/file/d/1xR7sIKcKDibqT1Z_fXDPARNjPui9QjB-/view?usp=drive_link
