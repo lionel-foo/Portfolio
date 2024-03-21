@@ -13,8 +13,8 @@ Note: You will have to fill in these identifier keys with your own set. Refer to
 https://praw.readthedocs.io/en/latest/getting_started/authentication.html
 '''
 reddit = praw.Reddit(user_agent="PRAW", 
-                     client_id="Kx3dV3Im3sVKBtufpawv-Q", 
-                     client_secret="zp5hDTv6hxYH_6EamtR005Qe_pCG_g"
+                     client_id="", 
+                     client_secret=""
                      )
 
 
