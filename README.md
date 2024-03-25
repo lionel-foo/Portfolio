@@ -1,7 +1,7 @@
 # Projects
 
 ### Emotion-centric music video recommendation system
-- Created a proof of concept that will analyze YouTube users’ comments to discern their emotional state and subsequently recommend Youtube music videos. These recommendations aim to either resonate with the users’ current emotional state or aid them in navigating through negative emotions.
+- Created a proof of concept that will analyse YouTube users’ comments to discern their emotional state and subsequently recommend Youtube music videos. These recommendations aim to either resonate with the users’ current emotional state or aid them in navigating through negative emotions.
 - Dataset from [kaggle](https://www.kaggle.com/datasets/nelgiriyewithana/emotions) was used to develop classification models to predict emotions derived from text data.
 - **Tools and Technologies used:**
   Pandas | NLP | RNN | GloVe | BERT | Recommender Systems | Streamlit
